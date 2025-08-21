@@ -29,5 +29,8 @@
 
     "doc-assistant.milestone": "June 2025",
 
+
     "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
 }
+  

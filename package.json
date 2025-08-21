@@ -5,6 +5,8 @@
     "name": "Microsoft Corporation"
   },
   "repository": {
+     
+
     "type": "git",
     "url": "https://github.com/microsoft/vscode-docs.git"
   },
